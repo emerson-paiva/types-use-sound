@@ -1,0 +1,16 @@
+{
+  "name": "@types/use-sound",
+  "version": "1.0.0",
+  "description": "Types from the joshwcomeau/use-sound",
+  "types": "index.d.ts",
+  "keywords": [
+    "use-sound",
+    "hook",
+    "types"
+  ],
+  "author": "Emerson Paiva",
+  "license": "MIT",
+  "dependencies": {
+    "@types/howler": "^2.2.10"
+  }
+}
